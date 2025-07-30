@@ -1,3 +1,9 @@
+![Platform](https://img.shields.io/badge/Platform-KNIME-yellow)
+![Dataset](https://img.shields.io/badge/Dataset-winequality--red.csv-red)
+![Analysis](https://img.shields.io/badge/Type-Regression-blue)
+![License](https://img.shields.io/badge/License-MIT-green)
+![Updated](https://img.shields.io/badge/Last_Updated-3_days_ago-lightgrey)
+
 # Wine Quality Regression with KNIME
 
 This project demonstrates a regression analysis performed using the [KNIME Analytics Platform](https://www.knime.com/) to predict wine quality based on physicochemical attributes. The analysis is based on the popular `winequality-red.csv` dataset, and includes workflow visualization, performance metrics, and visual plots of the model output.
